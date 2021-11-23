@@ -4,7 +4,10 @@
 
 - you have to create a database using phpmyadmin pannel
 - db Name -  registration
-- schema
+- command - create database registration
+- then create a table
+- table name :- registration
+- with schema
   create table registration(
    id int primary key auto_increment,
    fldName varchar(30),
